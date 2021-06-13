@@ -1,0 +1,45 @@
+@font-face{
+  font-family: 'SourceHanSansCN';
+  src: url('../fonts/SourceHanSansCN-Normal.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-size: 12px;
+  line-height: 1.5;
+}
+.index-span {
+  font-weight: 50;
+}
+
+body,
+h1, h2, h3, h4, h5, h6,
+#clock,
+#clock span,
+#awd-site-logo h1,
+.navigation ul>li a ,
+.featured-text>h3,
+.service>h3,
+.copyright p,
+.subscribe-form input,
+.contact-form input,
+.contact-form textarea,
+.contact-form select,
+.contact-form input::-webkit-input-placeholder,
+.contact-form textarea::-webkit-input-placeholder,
+.btn{ font-family: Helvetica, Tahoma, Arial, "PingFang", "SourceHanSansCN", "Microsoft YaHei", "SimHei",  sans-serif}
+
+#awd-site-nav{
+    padding-top: 4px;
+}
+.logo-white, .logo-black{ width: 50px; }
+.bg-home .logo-white, .bg-contact .logo-white,
+.bg-subscribe .logo-black, .bg-about .logo-black, .bg-services .logo-black{ display: none; }
+.bg-home .logo-black, .bg-contact .logo-black,
+.bg-subscribe .logo-white, .bg-about .logo-white, .bg-services .logo-white{ display: block; }
+.focus-word{
+    font-weight: 600;
+    letter-spacing: 1px;
+    font-family: "SourceHanSansCN";
+}
