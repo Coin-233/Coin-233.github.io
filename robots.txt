@@ -11,5 +11,5 @@ User-agent: googlebot-image
 Disallow: 
 User-agent: *
 Disallow: 
-Sitemap: https://mc.lablog.net/sitemap.html
-Sitemap: https://mc.lablog.net/sitemap.xml
+Sitemap: https://daym.tk/sitemap.html
+Sitemap: https://daym.tk/sitemap.xml
